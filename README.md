@@ -1,3 +1,3 @@
 # first-repository
 
-# gitUser000003 ì‚¬ìš©ìžê°€ ë‚´ìš©ì„ ìˆ˜ì •í•˜ì˜€ìŒ.
+# gitUser000003 »ç¿ëÀÚ°¡ ³»¿ëÀ» ¼öÁ¤ÇÏ¿´À½.
